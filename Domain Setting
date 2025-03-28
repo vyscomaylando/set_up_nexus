@@ -1,0 +1,33 @@
+Geo Region = id_ID
+
+Geo Placename = Indonesia
+
+Canonical = domain.com
+
+Google Site Verification = 0F9tUdsI7xZQqou1i-09DD-6eeOG8_Yu3WvuFEGnIAo
+
+Robot Meta Tag Content = index, follow
+
+Sitemap = 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://domain.com/</loc>
+</url>
+
+
+</urlset>
+
+Robot.txt = 
+User-agent: *
+Allow: /
+Sitemap: https://domain.com/sitemap.xml
+
+
